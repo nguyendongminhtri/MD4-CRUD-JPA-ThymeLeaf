@@ -1,0 +1,16 @@
+chinh/anh/service/ICustomerService.java
+ chinh.anh.service.ICustomerService
+chinh/anh/config/WebConfig.java
+ chinh.anh.config.WebConfig
+chinh/anh/model/Customer.java
+ chinh.anh.model.Customer
+chinh/anh/repository/CustomerRepository.java
+ chinh.anh.repository.CustomerRepository
+chinh/anh/service/CustomerService.java
+ chinh.anh.service.CustomerService
+chinh/anh/config/AppConfig.java
+ chinh.anh.config.AppConfig
+chinh/anh/controller/CustomerController.java
+ chinh.anh.controller.CustomerController
+chinh/anh/repository/ICustomerRepository.java
+ chinh.anh.repository.ICustomerRepository
